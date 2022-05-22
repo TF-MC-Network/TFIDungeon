@@ -1,7 +1,7 @@
 main: net.teamfekker.tfdungeon.Main
-name: TFDungeon
+name: TFIDungeon
 version: 0.1.0
 api-version: 1.16
-description: TF Dungeon Loot
-author: BearTrafalgar
+description: TFI Dungeon Loot
+authors: [BearTrafalgar, GabeTrafalgar]
 website: www.teamfekker.net
